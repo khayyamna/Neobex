@@ -1,0 +1,6 @@
+D:\final\Neobex\bin\Debug\Neobex.dll
+D:\final\Neobex\bin\Debug\Neobex.pdb
+D:\final\Neobex\bin\Debug\Neo.SmartContract.Framework.dll
+D:\final\Neobex\obj\Debug\Neobex.csproj.CoreCompileInputs.cache
+D:\final\Neobex\obj\Debug\Neobex.dll
+D:\final\Neobex\obj\Debug\Neobex.pdb
